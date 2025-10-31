@@ -1,0 +1,8 @@
+flask
+google-generativeai
+transformers
+torch
+librosa
+pydub
+flask_cors
+dotenv 
